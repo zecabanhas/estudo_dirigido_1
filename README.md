@@ -1,1 +1,1 @@
-# estudo_drigido_1
+# estudo_dirigido_1
